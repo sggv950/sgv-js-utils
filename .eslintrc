@@ -1,17 +1,19 @@
 {
   "root": true,
   "parser": "@typescript-eslint/parser",
-  "plugins": [
-    "@typescript-eslint"
-  ],
+  "plugins": ["@typescript-eslint"],
   "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended"
   ],
-  "rules": { 
+  "rules": {
     "comma-dangle": [1, "always-multiline"],
     "no-console": "warn",
-    "semi": "error"
+    "semi": "error",
+    "@typescript-eslint/no-var-requires": 0
+  },
+  "parserOptions": {
+    "warnOnUnsupportedTypeScriptVersion": false
   }
 }

@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-/* eslint-disable @typescript-eslint/no-var-requires */
 const { isNil } = require('../../../dist/lib/es5');
 
 describe('isNil', () => {
