@@ -1,5 +1,5 @@
 {
-  "name": "sgv-utils",
+  "name": "sgv-js-utils",
   "version": "0.1.0",
   "description": "JS utils",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sggv950/sgv-utils.git"
+    "url": "git+https://github.com/sggv950/sgv-js-utils.git"
   },
   "keywords": [],
   "author": "sggv950",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sggv950/sgv-utils/issues"
+    "url": "https://github.com/sggv950/sgv-js-utils/issues"
   },
-  "homepage": "https://github.com/sggv950/sgv-utils#readme",
+  "homepage": "https://github.com/sggv950/sgv-js-utils#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.16.4",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
