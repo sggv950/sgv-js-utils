@@ -1,1 +1,1 @@
-## simple js util library
+## A set of JavaScript utils

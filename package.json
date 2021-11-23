@@ -1,7 +1,7 @@
 {
   "name": "sgv-js-utils",
-  "version": "0.1.0",
-  "description": "JS utils",
+  "version": "0.0.1",
+  "description": "A set of JavaScript utils",
   "scripts": {
     "compile": "npm run lint && rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json",
     "lint": "eslint . --ext .ts",
